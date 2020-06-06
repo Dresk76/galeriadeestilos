@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Mystery Quest', cursive;
-    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
 }
 
 .titulo {
